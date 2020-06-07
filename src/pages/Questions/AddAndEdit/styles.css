@@ -1,0 +1,6 @@
+.bf-container .DraftEditor-root, .bf-container .public-DraftEditor-content {
+  height: 260px;
+}
+.addAndEditQuestionsForm .ant-form-item {
+  margin-bottom: 8px;
+}

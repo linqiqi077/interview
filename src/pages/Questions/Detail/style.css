@@ -1,0 +1,7 @@
+.questions-detail label {
+  color: brown;
+}
+.questions-detail .item {
+  border: 1px solid #eee;
+  padding: 16px;
+}
